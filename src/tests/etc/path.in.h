@@ -1,0 +1,1 @@
+#cmakedefine EN_EN_INPUT_FILE_PATH "@EN_EN_INPUT_FILE_PATH@"

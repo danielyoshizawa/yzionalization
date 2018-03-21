@@ -1,0 +1,4 @@
+test_string:Test string for Yzionalization Reader
+other_string:This is another string for testing
+string_num:123456
+string_explanation:Yes, would be nice to test if numbers are accepted
